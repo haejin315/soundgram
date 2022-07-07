@@ -1,0 +1,5 @@
+변수값 : QaA, QcA, QcE, QdA, QeA, QfA, QfE, QhE, QjA, QkA, QlE, QmA, QnE, QoA, QqA, QsA, QsE, age_group, education, engnat, race, religion, tp01, tp02, tp03, tp04, tp06, tp07, tp08, tp09, tp10, urban, wf_01, wf_02, wf_03, wr_01, wr_02, wr_03, wr_05, wr_06, wr_13, voted
+cp = 0.00052, minsplit = 5, minbucket = 3 정확도 : 0.6845(p =0.9)    AIC = -73888.08
+cp = 0.00075, minsplit = 5, minbucket = 3 정확도 : 0.6878(p =0.9)
+cp = 0.00075 ms = 6, mb = 3 정확도 : 0.6964(0.9)
+cp = 0.00075 ms = 6, mb = 2 정확도 : 0.701
